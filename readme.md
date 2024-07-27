@@ -14,7 +14,7 @@ Você precisará ter o Python 3.x instalado na sua máquina para executar o gera
 
 ```bash
 python --version
-
+```
 Se o Python não estiver instalado, você pode baixá-lo do [site oficial do Python](https://www.python.org/downloads/).
 
 ### 🔧 Instalação
