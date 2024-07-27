@@ -1,7 +1,7 @@
-from interface import PasswordGeneratorGUI
+from interface import passwordGeneratorGUI
 
 def main():
-    app = PasswordGeneratorGUI()
+    app = passwordGeneratorGUI()
     app.run()
 
 if __name__ == "__main__":
